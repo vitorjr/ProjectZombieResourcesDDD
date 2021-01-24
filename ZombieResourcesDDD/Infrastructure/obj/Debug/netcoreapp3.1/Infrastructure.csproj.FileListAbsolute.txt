@@ -2,3 +2,13 @@ C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debu
 C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
 C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
 C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projetos\ProjectZombieResourcesDDD\ZombieResourcesDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
