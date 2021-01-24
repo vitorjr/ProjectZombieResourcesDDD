@@ -1,33 +1,24 @@
 ﻿@model IEnumerable<Entities.Entities.Resource>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de todos os Recursos";
 }
 
-<h1>Index</h1>
+<h1>Lista de todos os Recursos</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Amount)
+                Quantidade
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Observation)
+                Recurso
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ResponsibleInput)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ResponsibleOutput)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th></th>
+            <th class="text-center">Ações</th>
         </tr>
     </thead>
     <tbody>
@@ -37,21 +28,12 @@
                 @Html.DisplayFor(modelItem => item.Amount)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Observation)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ResponsibleInput)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ResponsibleOutput)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <td class="text-center">
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Visualizar</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
             </td>
         </tr>
 }
