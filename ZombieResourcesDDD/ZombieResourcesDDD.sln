@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{AC14A494-FA94-4E60-A985-111C5FE6E765}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{FE738979-72F1-4A42-B8BB-29CDFD23F689}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{AB10DD9B-5C79-4660-8298-546EC9B249A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{649781BA-4511-42A9-82E3-52BBA494E1D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entities", "5 - Entities", "{97B7A182-4AB5-4037-BF38-819C9DD0CAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{505A3F1B-5C2D-4472-8038-1482E82FE926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505A3F1B-5C2D-4472-8038-1482E82FE926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505A3F1B-5C2D-4472-8038-1482E82FE926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505A3F1B-5C2D-4472-8038-1482E82FE926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505A3F1B-5C2D-4472-8038-1482E82FE926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{505A3F1B-5C2D-4472-8038-1482E82FE926} = {97B7A182-4AB5-4037-BF38-819C9DD0CAE8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58EE7CF-BBE4-4B64-8F76-7433CF5C1B5E}
+	EndGlobalSection
+EndGlobal
