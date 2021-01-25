@@ -1,6 +1,6 @@
 # ProjectZombieResourcesDDD
 
-Tecnologias Utilizadas:
+Conceitos e Tecnologias Utilizadas:
 
 -DDD
 -SQLSever
